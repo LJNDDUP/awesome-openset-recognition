@@ -3,9 +3,9 @@
 # 2020
 
 ## CVPR
-+ ~~[Generative-Discriminative Feature Representations for Open-Set Recognition](http://openaccess.thecvf.com/content_CVPR_2020/papers/Perera_Generative-Discriminative_Feature_Representations_for_Open-Set_Recognition_CVPR_2020_paper.pdf). Pramuditha Perera, et al. 11811-11820~~
-+ ~~[Conditional Gaussian Distribution Learning for Open Set Recognition](http://openaccess.thecvf.com/content_CVPR_2020/papers/Sun_Conditional_Gaussian_Distribution_Learning_for_Open_Set_Recognition_CVPR_2020_paper.pdf). Xin Sun, et al. 13477-13486~~
-+ ~~[**Few-Shot** Open-Set Recognition Using **Meta-Learning**](https://arxiv.org/abs/2005.13713#:~:text=Few-Shot%20Open-Set%20Recognition%20using%20Meta-Learning.%20The%20problem%20of,argued%20that%20the%20classic%20softmax%20classifier%20is%20). Bo Liu, et al. 8795-8804~~
++ [Generative-Discriminative Feature Representations for Open-Set Recognition](http://openaccess.thecvf.com/content_CVPR_2020/papers/Perera_Generative-Discriminative_Feature_Representations_for_Open-Set_Recognition_CVPR_2020_paper.pdf). Pramuditha Perera, et al. 11811-11820    glance
++ [Conditional Gaussian Distribution Learning for Open Set Recognition](http://openaccess.thecvf.com/content_CVPR_2020/papers/Sun_Conditional_Gaussian_Distribution_Learning_for_Open_Set_Recognition_CVPR_2020_paper.pdf). Xin Sun, et al. 13477-13486
++ [**Few-Shot** Open-Set Recognition Using **Meta-Learning**](https://arxiv.org/abs/2005.13713#:~:text=Few-Shot%20Open-Set%20Recognition%20using%20Meta-Learning.%20The%20problem%20of,argued%20that%20the%20classic%20softmax%20classifier%20is%20). Bo Liu, et al. 8795-8804
 + ~~[Towards Inheritable Models for Open-Set **Domain Adaptation**](https://openaccess.thecvf.com/content_CVPR_2020/papers/Kundu_Towards_Inheritable_Models_for_Open-Set_Domain_Adaptation_CVPR_2020_paper.pdf). Jogendra Nath Kundu, et al. 12373-12382~~
 + ~~[Exploring Category-Agnostic Clusters for Open-Set **Domain Adaptation**](https://openaccess.thecvf.com/content_CVPR_2020/papers/Pan_Exploring_Category-Agnostic_Clusters_for_Open-Set_Domain_Adaptation_CVPR_2020_paper.pdf). Yingwei Pan, et al. 13864-13872~~
 
