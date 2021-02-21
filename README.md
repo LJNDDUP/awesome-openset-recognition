@@ -1,0 +1,1 @@
+# awesome_openset_recognition_list
