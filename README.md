@@ -10,7 +10,7 @@
 + [Exploring Category-Agnostic Clusters for Open-Set **Domain Adaptation**](https://openaccess.thecvf.com/content_CVPR_2020/papers/Pan_Exploring_Category-Agnostic_Clusters_for_Open-Set_Domain_Adaptation_CVPR_2020_paper.pdf). Yingwei Pan, et al. ~~13864-13872~~
 
 ## ECCV
-+ [Learning Open Set Network with Discriminative Reciprocal Points](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480511.pdf). Guangyao Chen, et al. 507-522
+1 [Learning Open Set Network with Discriminative Reciprocal Points](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480511.pdf). Guangyao Chen, et al. 507-522
 + [On the Effectiveness of Image Rotation for Open Set **Domain Adaptation**](https://arxiv.org/abs/2007.12360). Silvia Bucci, et al.  ~~422-438~~
 + [Hybrid Models for Open Set Recognition](https://arxiv.org/pdf/2003.12506.pdf). Hongjie Zhang, et al. 102-117
 + [Learning to Detect Open Classes for Universal **Domain Adaptation**](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123600562.pdf). Bo Fu, et al. ~~567-583~~
