@@ -8,8 +8,8 @@
 + **Few-Shot** Open-Set Recognition Using **Meta-Learning**. Bo Liu, et al. 8795-8804
 + Towards Inheritable Models for Open-Set **Domain Adaptation**. Jogendra Nath Kundu, et al. 12373-12382
 + Exploring Category-Agnostic Clusters for Open-Set **Domain Adaptation**. Yingwei Pan, et al. 13864-13872
-+ [Generalized ODIN: Detecting Out-of-Distribution Image Without Learning From Out-of-Distribution Data](https://openaccess.thecvf.com/content_CVPR_2020/papers/Hsu_Generalized_ODIN_Detecting_Out-of-Distribution_Image_Without_Learning_From_Out-of-Distribution_Data_CVPR_2020_paper.pdf).	Yen-Chang Hsu, Yilin Shen, Hongxia Jin, Zsolt Kira. 10948-10957
-+ [Deep Residual Flow for Out of Distribution Detection](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zisselman_Deep_Residual_Flow_for_Out_of_Distribution_Detection_CVPR_2020_paper.pdf). Ev Zisselman, Aviv Tamar. 13991-14000
++ [Generalized ODIN: Detecting Out-of-Distribution Image Without Learning From Out-of-Distribution Data](https://openaccess.thecvf.com/content_CVPR_2020/papers/Hsu_Generalized_ODIN_Detecting_Out-of-Distribution_Image_Without_Learning_From_Out-of-Distribution_Data_CVPR_2020_paper.pdf).	Yen-Chang Hsu, et al. 10948-10957
++ [Deep Residual Flow for Out of Distribution Detection](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zisselman_Deep_Residual_Flow_for_Out_of_Distribution_Detection_CVPR_2020_paper.pdf). Ev Zisselman, et al. 13991-14000
 
 ## ECCV
 + [Learning Open Set Network with Discriminative Reciprocal Points](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480511.pdf). Guangyao Chen, et al. 507-522
