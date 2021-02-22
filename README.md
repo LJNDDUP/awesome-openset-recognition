@@ -14,7 +14,7 @@
 ## ECCV
 + [Learning Open Set Network with Discriminative Reciprocal Points](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480511.pdf). Guangyao Chen, et al. [[code]](https://github.com/iCGY96/ARPL)
 + [Hybrid Models for Open Set Recognition](https://arxiv.org/pdf/2003.12506.pdf). Hongjie Zhang, et al.
-+ [Open-Set **Adversarial Defense**](https://arxiv.org/abs/2009.00814). Rui Shao, et al.
++ Open-Set **Adversarial Defense**. Rui Shao, et al.
 + On the Effectiveness of Image Rotation for Open Set **Domain Adaptation**. Silvia Bucci, et al.
 + Learning to Detect Open Classes for Universal **Domain Adaptation**. Bo Fu, et al.
 + Multi-source Open-Set Deep Adversarial **Domain Adaptation**. Sayan Rakshit, et al.
