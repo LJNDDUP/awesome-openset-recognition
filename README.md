@@ -12,7 +12,7 @@
 + [Deep Residual Flow for Out of Distribution Detection](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zisselman_Deep_Residual_Flow_for_Out_of_Distribution_Detection_CVPR_2020_paper.pdf). Ev Zisselman, et al. 13991-14000
 
 ## ECCV
-+ [Learning Open Set Network with Discriminative Reciprocal Points](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480511.pdf). Guangyao Chen, et al. 507-522
++ [Learning Open Set Network with Discriminative Reciprocal Points](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480511.pdf). Guangyao Chen, et al. 507-522 [[code]](https://github.com/iCGY96/ARPL)
 + [Hybrid Models for Open Set Recognition](https://arxiv.org/pdf/2003.12506.pdf). Hongjie Zhang, et al. 102-117
 + [Open-Set **Adversarial Defense**](https://arxiv.org/abs/2009.00814). Rui Shao, et al. 682-698
 + On the Effectiveness of Image Rotation for Open Set **Domain Adaptation**. Silvia Bucci, et al. 422-438
