@@ -9,7 +9,7 @@
 + Towards Inheritable Models for Open-Set **Domain Adaptation**. Jogendra Nath Kundu, et al.
 + Exploring Category-Agnostic Clusters for Open-Set **Domain Adaptation**. Yingwei Pan, et al.
 + [Generalized ODIN: Detecting Out-of-Distribution Image Without Learning From Out-of-Distribution Data](https://openaccess.thecvf.com/content_CVPR_2020/papers/Hsu_Generalized_ODIN_Detecting_Out-of-Distribution_Image_Without_Learning_From_Out-of-Distribution_Data_CVPR_2020_paper.pdf).	Yen-Chang Hsu, et al.
-+ [Deep Residual Flow for Out of Distribution Detection](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zisselman_Deep_Residual_Flow_for_Out_of_Distribution_Detection_CVPR_2020_paper.pdf). Ev Zisselman, et al.
++ Deep Residual Flow for Out of Distribution Detection. Ev Zisselman, et al.
 
 ## ECCV
 + [Learning Open Set Network with Discriminative Reciprocal Points](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480511.pdf). Guangyao Chen, et al. [[code]](https://github.com/iCGY96/ARPL)
