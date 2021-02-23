@@ -24,3 +24,8 @@
 ## ICCV
 + Attract or Distract: Exploit the Margin of Open Set. Qianyu Feng, et al.
 + From Open Set to Closed Set: Counting Objects by Spatial Divide-and-Conquer. Haipeng Xiong, et al.
+
+# 2018
+
+## ICLR
++ [Enhancing the Reliability of Out-of-distribution Image Detection in Nerual Networks](https://arxiv.org/pdf/1706.02690.pdf). Shiyu Liang, et al.
