@@ -3,12 +3,12 @@
 # 2020
 
 ## CVPR
++ [Generalized ODIN: **Detecting Out-of-Distribution Image** Without Learning From Out-of-Distribution Data](https://openaccess.thecvf.com/content_CVPR_2020/papers/Hsu_Generalized_ODIN_Detecting_Out-of-Distribution_Image_Without_Learning_From_Out-of-Distribution_Data_CVPR_2020_paper.pdf).	Yen-Chang Hsu, et al.
 + Generative-Discriminative Feature Representations for Open-Set Recognition. Pramuditha Perera, et al.
 + Conditional Gaussian Distribution Learning for Open Set Recognition. Xin Sun, et al.
 + **Few-Shot** Open-Set Recognition Using Meta-Learning. Bo Liu, et al.
 + Towards Inheritable Models for Open-Set **Domain Adaptation**. Jogendra Nath Kundu, et al.
 + Exploring Category-Agnostic Clusters for Open-Set **Domain Adaptation**. Yingwei Pan, et al.
-+ [Generalized ODIN: **Detecting Out-of-Distribution Image** Without Learning From Out-of-Distribution Data](https://openaccess.thecvf.com/content_CVPR_2020/papers/Hsu_Generalized_ODIN_Detecting_Out-of-Distribution_Image_Without_Learning_From_Out-of-Distribution_Data_CVPR_2020_paper.pdf).	Yen-Chang Hsu, et al.
 + Deep Residual Flow for **Out of Distribution Detection**. Ev Zisselman, et al.
 
 ## ECCV
