@@ -25,6 +25,9 @@
 + Attract or Distract: Exploit the Margin of Open Set. Qianyu Feng, et al.
 + From Open Set to Closed Set: Counting Objects by Spatial Divide-and-Conquer. Haipeng Xiong, et al.
 
+# ICLR
++ [Deep anomaly detection with outlier exposure](https://arxiv.org/abs/1812.04606v1). Dan Hendrycks, et al.
+
 # 2018
 
 ## ICLR
