@@ -5,7 +5,7 @@
 ## CVPR
 + Generative-Discriminative Feature Representations for Open-Set Recognition. Pramuditha Perera, et al.
 + Conditional Gaussian Distribution Learning for Open Set Recognition. Xin Sun, et al.
-+ **Few-Shot** Open-Set Recognition Using **Meta-Learning**. Bo Liu, et al.
++ **Few-Shot** Open-Set Recognition Using Meta-Learning. Bo Liu, et al.
 + Towards Inheritable Models for Open-Set **Domain Adaptation**. Jogendra Nath Kundu, et al.
 + Exploring Category-Agnostic Clusters for Open-Set **Domain Adaptation**. Yingwei Pan, et al.
 + [Generalized ODIN: Detecting Out-of-Distribution Image Without Learning From Out-of-Distribution Data](https://openaccess.thecvf.com/content_CVPR_2020/papers/Hsu_Generalized_ODIN_Detecting_Out-of-Distribution_Image_Without_Learning_From_Out-of-Distribution_Data_CVPR_2020_paper.pdf).	Yen-Chang Hsu, et al.
@@ -26,9 +26,9 @@
 + From Open Set to Closed Set: Counting Objects by Spatial Divide-and-Conquer. Haipeng Xiong, et al.
 
 ## ICLR
-+ [Deep anomaly detection with outlier exposure](https://arxiv.org/abs/1812.04606v1). Dan Hendrycks, et al.
++ [Deep **anomaly detection** with outlier exposure](https://arxiv.org/abs/1812.04606v1). Dan Hendrycks, et al.
 
 # 2018
 
 ## ICLR
-+ [Enhancing the Reliability of Out-of-distribution Image Detection in Nerual Networks](https://arxiv.org/pdf/1706.02690.pdf). Shiyu Liang, et al.
++ [Enhancing the Reliability of **Out-of-distribution Image Detection** in Nerual Networks](https://arxiv.org/pdf/1706.02690.pdf). Shiyu Liang, et al.
