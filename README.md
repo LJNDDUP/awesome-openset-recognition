@@ -1,5 +1,10 @@
 # awesome Openset Recognition list
 
+# 2021
+
+## CVPR
++ Open-world object detection. 
+
 # 2020
 
 ## CVPR
