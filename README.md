@@ -3,7 +3,7 @@
 # 2021
 
 ## CVPR
-+ Open-world object detection. 
++ Open-world Object Detection. 
 
 # 2020
 
