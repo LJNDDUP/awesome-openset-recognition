@@ -3,7 +3,7 @@
 # 2021
 
 ## CVPR
-+ Open-world Object Detection. 
++ [Towards Open World Object Detection](https://arxiv.org/pdf/2103.02603.pdf). K J Joseph, et al. Indian Institute of Technology Hyderabad. 
 
 # 2020
 
@@ -25,6 +25,9 @@
 + Multi-source Open-Set Deep Adversarial **Domain Adaptation**. Sayan Rakshit, et al.
 
 # 2019
+
+## CVPR
++ [Large-Scale Long-Tailed Recognition in an Open World](https://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Large-Scale_Long-Tailed_Recognition_in_an_Open_World_CVPR_2019_paper.pdf). Ziwei Liu, et al. Chinese University Of Hong Kong.
 
 ## ICCV
 + Attract or Distract: Exploit the Margin of Open Set. Qianyu Feng, et al.
