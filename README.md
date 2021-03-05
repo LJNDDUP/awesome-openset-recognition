@@ -25,7 +25,7 @@
 + Multi-source Open-Set Deep Adversarial **Domain Adaptation**. Sayan Rakshit, et al.
 
 ## ICML
-+ [A Simple Framework for Contrastive Learning of Visual Representations](http://proceedings.mlr.press/v119/chen20j/chen20j.pdf). Ting Chen, et al. Google Research.
++ [A Simple Framework for Contrastive Learning of Visual Representations](http://proceedings.mlr.press/v119/chen20j/chen20j.pdf). Ting Chen, et al. Google Research. [[code-tf]](https://github.com/google-research/simclr). [[code-torch]](https://github.com/sthalles/SimCLR).
 
 ## NIPS
 + [Rethinking the Value of Labels for Improving Class-Imbalanced Learning](https://www.mit.edu/~yuzhe/static/imbalance-nips20.pdf). Yuzhe Yang, et al. MIT.
