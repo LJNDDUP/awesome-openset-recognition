@@ -24,6 +24,13 @@
 + Learning to Detect Open Classes for Universal **Domain Adaptation**. Bo Fu, et al.
 + Multi-source Open-Set Deep Adversarial **Domain Adaptation**. Sayan Rakshit, et al.
 
+## ICML
++ [A Simple Framework for Contrastive Learning of Visual Representations](http://proceedings.mlr.press/v119/chen20j/chen20j.pdf). Ting Chen, et al. Google Research.
+
+## NIPS
++ [Rethinking the Value of Labels for Improving Class-Imbalanced Learning](https://www.mit.edu/~yuzhe/static/imbalance-nips20.pdf). Yuzhe Yang, et al. MIT.
++ [Big Self-Supervised Models are Strong Semi-Supervised Learners](https://papers.nips.cc/paper/2020/file/fcbc95ccdd551da181207c0c1400c655-Paper.pdf). Ting Chen, et al. Google Research.
+
 # 2019
 
 ## CVPR
