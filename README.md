@@ -5,6 +5,9 @@
 ## CVPR
 + [Towards Open World Object Detection](https://arxiv.org/pdf/2103.02603.pdf). K J Joseph, et al. Indian Institute of Technology Hyderabad. 
 
+## ICLR
++ [An Image Is Worth 16X16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/pdf/2010.11929.pdf). Alexey Dosovitskiy, et al. Google Research, Brain Team.
+
 # 2020
 
 ## CVPR
@@ -26,6 +29,7 @@
 
 ## ICML
 + [A Simple Framework for Contrastive Learning of Visual Representations](http://proceedings.mlr.press/v119/chen20j/chen20j.pdf). Ting Chen, et al. Google Research. [[code-tf]](https://github.com/google-research/simclr). [[code-torch]](https://github.com/sthalles/SimCLR).
++ [Generative Pretraining from Pixels](https://cdn.openai.com/papers/Generative_Pretraining_from_Pixels_V2.pdf). Mark Chen. OpenAI.
 
 ## NIPS
 + [Rethinking the Value of Labels for Improving Class-Imbalanced Learning](https://www.mit.edu/~yuzhe/static/imbalance-nips20.pdf). Yuzhe Yang, et al. MIT.
