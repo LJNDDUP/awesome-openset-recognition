@@ -1,4 +1,5 @@
-# awesome Openset Recognition list
+# awesome Openset Recognition
+
 
 # 2021
 ## CVPR
